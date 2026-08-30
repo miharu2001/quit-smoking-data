@@ -1,0 +1,25 @@
+{
+  "id": "ypoAvuCFjGL2rn7l",
+  "createdAt": "2026-08-30T10:51:52.456Z",
+  "updatedAt": "2026-08-30T10:51:52.456Z",
+  "challengerName": "美晴",
+  "partnerName": "けいすけ",
+  "startDate": "2026-08-30",
+  "rule": "zero",
+  "limit": 500,
+  "pricePerCigarette": 500,
+  "rewardText": "食事1回",
+  "records": {},
+  "settingsHistory": [
+    {
+      "changedAt": "2026-08-30T10:51:52.456Z",
+      "effectiveDate": "2026-08-30",
+      "challengerName": "美晴",
+      "partnerName": "けいすけ",
+      "rule": "zero",
+      "limit": 500,
+      "pricePerCigarette": 500,
+      "rewardText": "食事1回"
+    }
+  ]
+}
