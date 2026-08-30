@@ -1,0 +1,25 @@
+{
+  "id": "VlKg0usKED7Yo1Kb",
+  "createdAt": "2026-08-30T11:03:10.176Z",
+  "updatedAt": "2026-08-30T11:03:10.176Z",
+  "challengerName": "あ",
+  "partnerName": "あ",
+  "startDate": "2026-08-26",
+  "rule": "zero",
+  "limit": 0,
+  "pricePerCigarette": 2000,
+  "rewardText": "ごはん",
+  "records": {},
+  "settingsHistory": [
+    {
+      "changedAt": "2026-08-30T11:03:10.176Z",
+      "effectiveDate": "2026-08-26",
+      "challengerName": "あ",
+      "partnerName": "あ",
+      "rule": "zero",
+      "limit": 0,
+      "pricePerCigarette": 2000,
+      "rewardText": "ごはん"
+    }
+  ]
+}
