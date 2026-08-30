@@ -1,7 +1,7 @@
 {
   "id": "VlKg0usKED7Yo1Kb",
   "createdAt": "2026-08-30T11:03:10.176Z",
-  "updatedAt": "2026-08-30T11:04:10.646Z",
+  "updatedAt": "2026-08-30T11:04:16.727Z",
   "challengerName": "あ",
   "partnerName": "あ",
   "startDate": "2026-08-26",
@@ -31,8 +31,8 @@
       }
     },
     "2026-08-28": {
-      "count": 0,
-      "recordedAt": "2026-08-30T11:03:27.190Z",
+      "count": 1,
+      "recordedAt": "2026-08-30T11:04:16.727Z",
       "snapshot": {
         "rule": "zero",
         "limit": 0,
