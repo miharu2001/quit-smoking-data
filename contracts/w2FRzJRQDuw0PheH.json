@@ -1,7 +1,7 @@
 {
   "id": "w2FRzJRQDuw0PheH",
   "createdAt": "2026-08-30T11:11:53.675Z",
-  "updatedAt": "2026-08-30T11:11:53.675Z",
+  "updatedAt": "2026-08-30T11:12:02.895Z",
   "challengerName": "ミハル",
   "partnerName": "アツシ",
   "startDate": "2026-08-30",
@@ -9,7 +9,18 @@
   "limit": 0,
   "pricePerCigarette": 500,
   "rewardText": "食事1回",
-  "records": {},
+  "records": {
+    "2026-08-30": {
+      "count": 0,
+      "recordedAt": "2026-08-30T11:12:02.895Z",
+      "snapshot": {
+        "rule": "zero",
+        "limit": 0,
+        "pricePerCigarette": 500,
+        "rewardText": "食事1回"
+      }
+    }
+  },
   "settingsHistory": [
     {
       "changedAt": "2026-08-30T11:11:53.675Z",
