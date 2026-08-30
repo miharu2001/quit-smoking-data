@@ -1,7 +1,7 @@
 {
   "id": "Z0CIz3211_BxBhG4",
   "createdAt": "2026-08-30T10:52:12.754Z",
-  "updatedAt": "2026-08-30T10:52:12.754Z",
+  "updatedAt": "2026-08-30T10:52:32.147Z",
   "challengerName": "みはる",
   "partnerName": "けいすけ",
   "startDate": "2026-08-30",
@@ -14,6 +14,16 @@
     {
       "changedAt": "2026-08-30T10:52:12.754Z",
       "effectiveDate": "2026-08-30",
+      "challengerName": "みはる",
+      "partnerName": "けいすけ",
+      "rule": "zero",
+      "limit": 0,
+      "pricePerCigarette": 500,
+      "rewardText": "食事1回"
+    },
+    {
+      "changedAt": "2026-08-30T10:52:32.147Z",
+      "effectiveDate": "2026-08-24",
       "challengerName": "みはる",
       "partnerName": "けいすけ",
       "rule": "zero",
