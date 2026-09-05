@@ -1,7 +1,7 @@
 {
   "id": "aOq9h60LWfZcjNXq",
   "createdAt": "2026-08-30T11:50:15.467Z",
-  "updatedAt": "2026-09-05T08:00:40.875Z",
+  "updatedAt": "2026-09-05T15:29:54.216Z",
   "challengerName": "美晴",
   "partnerName": "圭佑",
   "startDate": "2026-08-24",
@@ -132,7 +132,7 @@
     },
     "2026-09-05": {
       "count": 0,
-      "recordedAt": "2026-09-05T08:00:40.875Z",
+      "recordedAt": "2026-09-05T15:29:54.216Z",
       "snapshot": {
         "rule": "zero",
         "limit": 0,
