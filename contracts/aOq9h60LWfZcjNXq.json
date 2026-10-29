@@ -1,7 +1,7 @@
 {
   "id": "aOq9h60LWfZcjNXq",
   "createdAt": "2026-08-30T11:50:15.467Z",
-  "updatedAt": "2026-10-28T03:35:48.050Z",
+  "updatedAt": "2026-10-29T22:55:52.414Z",
   "challengerName": "美晴",
   "partnerName": "圭佑",
   "startDate": "2026-08-24",
@@ -663,6 +663,16 @@
     "2026-10-28": {
       "count": 0,
       "recordedAt": "2026-10-28T03:35:48.050Z",
+      "snapshot": {
+        "rule": "zero",
+        "limit": 0,
+        "pricePerCigarette": 500,
+        "rewardText": "食事1回"
+      }
+    },
+    "2026-10-29": {
+      "count": 0,
+      "recordedAt": "2026-10-29T22:55:52.414Z",
       "snapshot": {
         "rule": "zero",
         "limit": 0,
